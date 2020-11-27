@@ -3,11 +3,11 @@ extends layout.pug
 block content
   article.grid-container.portfolio-intro
     div
-      h1 Well, this is embarassing
+      h1 You might be lost
       h4= `${err.status} | ${err.message}`
-      p Guess I'm still learning.
+      p Hire me and I can help you out!
         br
         a(href='/') (or click here to head back Home)
-      img(src='../static/images/embarassed.jpeg')
+      img(src='../static/images/lost.jpg')
       h5 Error Details:
       p.errorStack #{err.stack}

@@ -13,7 +13,7 @@ router.get('/projects/:id', (req, res)=>{
     //if project doesn't exist, trigger 404 error
     const err = new Error("Project Doesn't Exist");
     err.status = 404;
-    res.render('error', {err});
+    res.render('page-not-found', {err});
   }
   else{
     //if project found, render project
