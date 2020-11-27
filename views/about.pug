@@ -24,8 +24,10 @@ block content
 
         //- Add your own contact info
         ul
-          li= bio.contact.number
-          li= bio.contact.email
+          li
+            a(href=`tel:${bio.contact.number}`)= bio.contact.number
+          li
+            a(href=`mailto:${bio.contact.email}`)= bio.contact.email
 
         //- Add URLs to the hrefs below to link to your social media accounts.
         a.button.expanded(href=`${bio.socials.linkedin}`, target='_blank') LinkedIn

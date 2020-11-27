@@ -28,15 +28,15 @@
       "project_name": "Flashcards",
       "description": "Question and Answer game",
       "technologies": ["node", "express", "pug"],
-      "live_link": "",
-      "github_link": "",
+      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-flashcards",
+      "github_link": "https://github.com/gobadia/team-treehouse-techdegree-flashcards",
       "image_urls": ["./static/images/flashcards.png"]
     },
     {"id": "1",
       "project_name": "OOP Game",
       "description": "Fun with Letters",
       "technologies": ["html", "css", "javascript"],
-      "live_link": "",
+      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-oop_game-v2",
       "github_link": "https://github.com/gobadia/team-treehouse-techdegree-oop_game-v2",
       "image_urls": ["./static/images/oopGame.png"]
     }
