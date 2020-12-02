@@ -16,20 +16,17 @@ block content
       .cell.portfolio-meta.small-6.medium-2.large-3
         h6 Skills
 
-        //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
         ul
           each skill in bio.skills
             li= skill
         h6 Contact Info
 
-        //- Add your own contact info
         ul
           li
             a(href=`tel:${bio.contact.number}`)= bio.contact.number
           li
             a(href=`mailto:${bio.contact.email}`)= bio.contact.email
 
-        //- Add URLs to the hrefs below to link to your social media accounts.
         a.button.expanded(href=`${bio.socials.linkedin}`, target='_blank') LinkedIn
         a.button.expanded(href=`${bio.socials.git}`, target='_blank') GitHub
         a.button.expanded(href=`${bio.socials.twitter}`, target='_blank') Twitter

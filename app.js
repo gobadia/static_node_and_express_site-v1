@@ -37,7 +37,7 @@ app.use((err, req, res, next)=>{
   res.status(err.status);
 
   if(err.status === 404){
-    res.render('page-not-found', {err});
+    res.render('project-not-found', {err});
   }
   else{
     res.render('error', {err});
