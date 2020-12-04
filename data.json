@@ -28,7 +28,7 @@
       "project_name": "Flashcards",
       "description": "Question and Answer game",
       "technologies": ["node", "express", "pug"],
-      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-flashcards",
+      "live_link": "https://flashcards-team-treehouse.herokuapp.com/",
       "github_link": "https://github.com/gobadia/team-treehouse-techdegree-flashcards",
       "image_urls": ["./static/images/flashcards.png"]
     },
