@@ -28,7 +28,7 @@
       "project_name": "Flashcards",
       "description": "Question and Answer game",
       "technologies": ["node", "express", "pug"],
-      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-flashcards",
+      "live_link": "https://flashcards-team-treehouse.herokuapp.com/",
       "github_link": "https://github.com/gobadia/team-treehouse-techdegree-flashcards",
       "image_urls": ["./static/images/flashcards.png"]
     },
@@ -36,7 +36,7 @@
       "project_name": "OOP Game",
       "description": "Fun with Letters",
       "technologies": ["html", "css", "javascript"],
-      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-oop_game-v2",
+      "live_link": "https://gobadia.github.io/team-treehouse-techdegree-oop_game-v2/",
       "github_link": "https://github.com/gobadia/team-treehouse-techdegree-oop_game-v2",
       "image_urls": ["./static/images/oopGame.png"]
     },
@@ -44,7 +44,7 @@
       "project_name": "Interactive Form",
       "description": "Team TreeHouse Project to make an interactive form using Javascript",
       "technologies": ["html", "css", "javascript"],
-      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-interactive-form-v2",
+      "live_link": "https://gobadia.github.io/team-treehouse-techdegree-interactive-form-v2/",
       "github_link": "https://github.com/gobadia/team-treehouse-techdegree-interactive-form-v2",
       "image_urls": ["./static/images/interactive-form.png"]
     },
@@ -52,7 +52,7 @@
       "project_name": "Random Quote Generator",
       "description": "Discovery fun quotes from LetterKenny characters",
       "technologies": ["html", "css", "javascript"],
-      "live_link": "https://github.com/gobadia/team_treehouse_techdegree_random_quote_generator",
+      "live_link": "https://gobadia.github.io/team_treehouse_techdegree_random_quote_generator",
       "github_link": "https://github.com/gobadia/team_treehouse_techdegree_random_quote_generator",
       "image_urls": ["./static/images/random-quote-generator.png"]
     },
@@ -60,7 +60,7 @@
       "project_name": "Pagination Project",
       "description": "Employee listings to show pagination work",
       "technologies": ["html", "css", "javascript"],
-      "live_link": "https://github.com/gobadia/team-treehouse-techdegree-pagination-project",
+      "live_link": "https://gobadia.github.io/team-treehouse-techdegree-pagination-project/",
       "github_link": "https://github.com/gobadia/team-treehouse-techdegree-pagination-project",
       "image_urls": ["./static/images/pagination-project.png"]
     }
